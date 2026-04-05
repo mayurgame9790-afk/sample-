@@ -8,7 +8,7 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view the site(https://mayurgame9790-afk.github.io/sample-/) 
+👉 Click here to view the site(https://mayurgame9790-afk.github.io/sample-/) 
 
 ---
 
